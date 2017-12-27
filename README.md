@@ -29,5 +29,6 @@ Download: https://storage.googleapis.com/google-code-archive-downloads/v2/code.g
  4. DEBUG mode could potentially affect the Brightness Boost Thread  as debug info output via serial port  takes too 
     much of CPU time.  
  
- 5. It has a separate thread to fade-in and fade out a LED using Arduino PWM function. 
+ 5. It has a separate thread to fade-in and fade out a LED using Arduino PWM function.
+ 
 -----------End of Design Notes------------------------------------------------
