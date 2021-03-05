@@ -1,5 +1,7 @@
 # NavLights
 Simple navigation lights for RC planes (or other vehicles) based on Arduino
+This is also an example of a multi-tread Arduino software.   
+
 
 Navigation Lights with Battery Voltage Alarm (optional - TODO)  
 V0.8  - test version based on project:protothread Library
@@ -11,7 +13,7 @@ Websites: http://harteware.blogspot.com.au/2010/11/protothread-powerfull-library
 Download: https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/arduinode/pt.zip
 
 
------------Design Notes-------------------------------------------------------
+## Design Notes:
  
  1. The protothread Library allows to  run several threads in  parallel which updates global variables to 
     exchange information betweeh the therads. Local variables are not safe (protothreads do not save the 
@@ -31,4 +33,9 @@ Download: https://storage.googleapis.com/google-code-archive-downloads/v2/code.g
  
  5. It has a separate thread to fade-in and fade out a LED using Arduino PWM function.
  
------------End of Design Notes------------------------------------------------
+
+
+## Donation:
+If you like this project or it helps you to reduce your development effort, you can buy me a cup of coffee :) 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=ifhone777-hub%40yahoo.com&currency_code=USD)
