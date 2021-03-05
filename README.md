@@ -5,12 +5,14 @@ This is also an example of a multi-tread Arduino software.
 
 
 Navigation Lights with Battery Voltage Alarm (optional - TODO)  
-V0.8  - test version based on project:protothread Library
+V0.8  - test version based on **project:protothread** Library
 
 Websites: 
 http://harteware.blogspot.com.au/2010/11/protothread-powerfull-library.html
+
 http://harteware.blogspot.com.au/2010/11/protothread-and-arduino-first-easy.html
-http://dunkels.com/adam/pt/examples.html 
+
+http://dunkels.com/adam/pt/examples.html
 
 Download:
 https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/arduinode/pt.zip
